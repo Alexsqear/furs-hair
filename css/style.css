@@ -344,6 +344,7 @@ p{
 .footer_text{
   margin-left: 10px;
   font-size: 17px;
+  color: #ffffff;
 }
 .footer_text a {
   text-decoration: underline;
