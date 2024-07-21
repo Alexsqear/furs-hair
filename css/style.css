@@ -414,6 +414,10 @@ p{
   text-align: center;
   margin: 20px 0;
 }
+.expert_title .expert_suptitle{
+  font-size: 17px;
+  font-weight: 300;
+}
 .expert_title p{
   font-size: 22px;
   font-weight: bold;
